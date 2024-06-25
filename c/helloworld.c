@@ -1,3 +1,5 @@
+/* Hello world exampole in C */
+
 #include <stdio.h>
 
 int main() {
